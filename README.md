@@ -1,3 +1,3 @@
 Olá! 
 
-Me chamo Isabel! Sou estudante de linguagens de programação.
+Me chamo Isabel! Sou estudante de Análide de sistemas e programação.
